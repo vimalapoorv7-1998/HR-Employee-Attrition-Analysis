@@ -231,30 +231,6 @@ Rather than a black-box model, this chapter builds a **weighted factor score (0�
 
 ---
 
-## 🚀 How to Run
-
-**1. Clone the repository**
-```bash
-git clone https://github.com/yourusername/hr-attrition-analysis.git
-cd hr-attrition-analysis
-```
-
-**2. Install dependencies**
-```bash
-pip install pandas numpy matplotlib seaborn jupyter
-```
-
-**3. Launch the notebook**
-```bash
-jupyter notebook HR_Attrition_Analysis.ipynb
-```
-
-**4. Run all cells**
-
-Run cells sequentially from top to bottom. All chapters share a single kernel session — do not restart between chapters. Charts will be saved automatically to the working directory.
-
----
-
 ## 💡 Key Design Decisions
 
 **Business-first framing.**
